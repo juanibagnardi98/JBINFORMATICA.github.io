@@ -1,0 +1,19 @@
+button {
+  background-color: rgb(0, 255, 13);
+  color: red;
+  padding: 10px;
+
+
+button:hover {
+  background-color: rgb(0, 162, 255);
+
+a:hover {
+  color: green;
+
+a:focus-visible {
+  outline: 3px solid #ffbf47;
+  outline-offset: 2px;
+  }
+  }
+  }
+}
